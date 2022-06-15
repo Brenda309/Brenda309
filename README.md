@@ -1,4 +1,4 @@
-    <h2>Hi there 👋, I am Brenda.</2>
+    <h2 align="center">Hi there 👋, I am Brenda.</h2>
 
 <p>I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on my social medias</p>
 
