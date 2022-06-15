@@ -1,14 +1,14 @@
-    <h2 align="center">Hi there 👋, I am Brenda.</h2>
+ <h2 align="center">Hi there 👋, I am Brenda.</h2>
 
-<p>I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on my social medias</p>
+<p>I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on my social medias.</p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Leaderboard**
+- 🔭 I’m currently working on **Leaderboard.**
 
 - 🌱 I’m currently learning **JavaScript.**
-- 🧑‍💼 I'm looking for **New opportunity**
-- 👯 I’m would love to collaborate on **OpenSource Projects**
+- 🧑‍💼 I'm looking for **New opportunity.**
+- 👯 I’m would love to collaborate on **OpenSource Projects.**
 - 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
 - 📫 How to reach me **brewihogora23@gmail.com**
 
