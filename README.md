@@ -1,10 +1,10 @@
-    ### Hi there 👋, I am Brenda.
+    <h2>Hi there 👋, I am Brenda.</2>
 
 <p>I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on my social medias</p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Leaderboard **
+- 🔭 I’m currently working on **Leaderboard**
 
 - 🌱 I’m currently learning **JavaScript.**
 - 🧑‍💼 I'm looking for **New opportunity**
