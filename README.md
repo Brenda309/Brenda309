@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I am Brenda.
+
+<p align="center">I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on my social medias</p>
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Leaderboard **
+
+- 🌱 I’m currently learning **JavaScript.**
+- 🧑‍💼 I'm looking for **New opportunity**
+- 👯 I’m would love to collaborate on **OpenSource Projects**
+- 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
+- 📫 How to reach me **brewihogora23@gmail.com**
+
+- ⚡ Fun fact **My cat Sisco can dream.**
+
 ### Programming languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
