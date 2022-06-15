@@ -12,3 +12,18 @@
 
 <img align="left" width= 47% src="https://github-readme-stats.vercel.app/api?username=Brenda309&show_icons=true&theme=radical" />
 <img align="left" width= 47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda309&layout=compact" />
+
+<a href="https://github.com/Brenda309/github-readme-activity-graph"><img alt="Brenda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Brenda309&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+#### Let's connect
+<p align="left">
+<a href = "https://www.linkedin.com/in/brenda-wihogora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
+<a href = "https://twitter.com/BrendaWihogora"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+<a href = "https://www.instagram.com/_Wihogora_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Brenda309">
+</a>
+<a href="https://github.com/Brenda309?tab=followers"><img src="https://img.shields.io/github/followers/Brenda309?label=Followers&style=social" alt="GitHub Badge"></a>
