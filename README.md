@@ -1,6 +1,6 @@
  <h2 align="center">Hi there 👋, I am Brenda.</h2>
 
-<p>I'm a passionate Full Stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on social media.</p>
+<p>I'm a passionate Full-stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on social media.</p>
 
 ## 🙋‍♂️ About Me
 
