@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
 - 📫 How to reach me **brewihogora23@gmail.com**
 
-- ⚡ Fun fact **My cat Cisco can dream.**
+- ⚡ Fun fact **I code whenever I am awake.**
 
 ### Programming languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
