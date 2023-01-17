@@ -1,18 +1,17 @@
  <h2 align="center">Hi there 👋, I am Brenda.</h2>
 
-<p>I'm a passionate Full-stack Developer. I spend some of my spare time reading books about algorithms and share what I learn on social media.</p>
+<p>I'm a passionate Full-stack Developer. I spend most of my spare time reading classic literature.</p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Leaderboard.**
+- 🔭 I’m currently contributing on **Open source project.**
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **RoR end point APIs.**
 - 🧑‍💼 I'm open to **New opportunities.**
-- 👯 I’m would love to collaborate on **OpenSource Projects.**
 - 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
 - 📫 How to reach me **brewihogora23@gmail.com**
 
-- ⚡ Fun fact **I code whenever I am awake.**
+- ⚡ Fun fact **I am actually good at crochet and embroidery.**
 
 ### Programming languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
