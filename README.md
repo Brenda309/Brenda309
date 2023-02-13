@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently contributing on **Open source project.**
 
-- 🌱 I’m currently learning **RoR end point APIs.**
+- 🌱 I’m currently learning **Ruby on Rails**
 - 🧑‍💼 I'm open to **New opportunities.**
 - 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
 - 📫 How to reach me **brewihogora23@gmail.com**
