@@ -6,8 +6,8 @@
 
 - 🌱  I am a Full-Stack Developer and 3rd year Software Engineering Student.
 - 🤔 I am always eager to learn new technologies
-- 👨‍💻 I have developed projects using React, Redux, Ruby on Rails. I enjoy developing solutions both in backend and frontend.*
-- 🧑‍💼I'm seeking opportunities for collaboration on diverse software projects in the fields of education, gaming, AI , healthtech, or financial.
+- 👨‍💻 I have developed projects using React, Redux, Ruby on Rails. I enjoy developing solutions both in backend and frontend.
+- 🧑‍💼I'm seeking opportunities for collaboration on diverse software projects in the fields of education, gaming, AI, healthtech, or financial.
 - 👩‍💼 I am open to offers and looking for remote jobs.
 - 📫 People can reach me at **brewihogora23@gmail.com**
 
