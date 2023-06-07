@@ -4,14 +4,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently contributing on **Open source project.**
-
 - 🌱 I’m currently learning **Ruby on Rails**
 - 🧑‍💼 I'm open to **New opportunities.**
 - 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
 - 📫 How to reach me **brewihogora23@gmail.com**
-
-- ⚡ Fun fact **I am actually good at crochet and embroidery.**
 
 ### Programming languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
