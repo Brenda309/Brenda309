@@ -1,8 +1,7 @@
- <h2 align="center">Hi there 👋, I am Brenda.</h2>
 
-<p>I'm a passionate Full-stack Developer. I spend most of my spare time reading classic literature.</p>
 
-## 🙋‍♂️ About Me
+
+##<h1 align="center">Hi👋, I am Brenda.</h1>
 
 - 🌱  I am a Full-Stack Developer and 3rd year Software Engineering Student.
 - 🤔 I am always eager to learn new technologies
