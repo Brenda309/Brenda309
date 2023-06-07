@@ -1,7 +1,7 @@
 
 
 
-##<h1 align="center">Hi👋, I am Brenda.</h1>
+<h1 align="center">Hi👋, I am Brenda.</h1>
 
 - 🌱  I am a Full-Stack Developer and 3rd year Software Engineering Student.
 - 🤔 I am always eager to learn new technologies
