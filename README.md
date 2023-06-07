@@ -4,10 +4,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Ruby on Rails**
-- 🧑‍💼 I'm open to **New opportunities.**
-- 👨‍💻 All of my projects are available at **[My GitHub account](https://github.com/Brenda309)**
-- 📫 How to reach me **brewihogora23@gmail.com**
+- 🌱  I am a Full-Stack Developer and 3rd year Software Engineering Student.
+- 🤔 I am always eager to learn new technologies
+- 👨‍💻 I have developed projects using React, Redux, Ruby on Rails. I enjoy developing solutions both in backend and frontend.*
+- 🧑‍💼I'm seeking opportunities for collaboration on diverse software projects in the fields of education, gaming, AI , healthtech, or financial.
+- 👩‍💼 I am open to offers and looking for remote jobs.
+- 📫 People can reach me at **brewihogora23@gmail.com**
 
 ### Programming languages
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +37,6 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/brenda-wihogora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "https://twitter.com/BrendaWihogora"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
-<a href = "https://www.instagram.com/_Wihogora_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 </p>
 
 ## ❤ Views and Followers
