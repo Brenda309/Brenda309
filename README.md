@@ -4,8 +4,8 @@
 <h1 align="center">Hi👋, I am Brenda.</h1>
 
 - 🌱  I am a Full-Stack Developer and 4th year Software Engineering Student.
-- 🤔 I am always eager to learn new technologies
-- 👨‍💻 I have developed projects using React, Redux, Core java, Spring Boot, Spring MVC, Hibernate. I enjoy developing solutions both in the backend and front end.
+- 🤔 I am life long learner.
+- 👨‍💻 I have developed projects using React, Redux, Core Java, Spring Boot, Spring MVC, and Hibernate. I enjoy developing solutions both in the backend and front end.
 - 🧑‍💼I'm seeking opportunities for collaboration on diverse software projects in the fields of education, gaming, Fintech, AI, health tech, or finance.
 - 👩‍💼 I am open to offers and looking for remote jobs.
 - 📫 People can reach me at **brewihogora23@gmail.com**
