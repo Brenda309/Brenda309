@@ -5,7 +5,7 @@
 
 - 🌱  I am a Full-Stack Developer and 4th year Software Engineering Student.
 - 🤔 I am a life long learner.
-- 👨‍💻 I have developed projects using React, Redux, Core Java, Spring Boot, Spring MVC, and Hibernate. I enjoy developing solutions both in the backend and front end.
+- 👨‍💻 I have developed projects using React, Redux, Ruby on Rails Spring MVC, and Hibernate. I enjoy developing solutions both in the backend and front end.
 - 🧑‍💼I'm seeking opportunities for collaboration on diverse software projects in the fields of education, gaming, Fintech, AI, health tech, or finance.
 - 👩‍💼 I am open to offers and looking for remote jobs.
 - 📫 People can reach me at **brewihogora23@gmail.com**
